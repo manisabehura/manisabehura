@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Manisa Behura 👋
 
-<!--
-**manisabehura/manisabehura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate HR Analytics & HRBP professional from India
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Python, Power BI, and HR Analytics projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Python (from SkillUp Online), Power BI (PL-300 level), Advanced Analytics & Generative AI
+
+👯 I’m looking to collaborate on HR dashboards, analytics projects, people insights, and automation ideas
+
+💬 Ask me about HR Analytics, HRBP responsibilities, KPI & goal setting, performance management, Power BI basics, Python for HR
+
+📫 How to reach me: manisa.behura1994@gmail.com
+
+⚡ Fun fact: I love solving people problems using numbers. 
+
+
+
+🛠️ My Tech & Analytics Stack
+
+Here are the tools and technologies I’m working with recently:
+
+Analytics & BI: Power BI, DAX, HR Metrics, KPI frameworks
+
+Programming: Python (beginner–intermediate)
+
+Data Tools: Pandas, Excel, NumPy (learning phase)
+
+HR Skills: HRBP, Performance Management, Talent Insights, Workforce Analytics
+
+Other Tools: Git (learning), Jupyter Notebook, VS Code
+
+### 🔗 Connect with me:
+
+linkedin.com/in/manisa-behura-ab2628172
