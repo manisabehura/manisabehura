@@ -1,24 +1,28 @@
 Hi there, I'm Manisa Behura 👋
 
-A passionate HR Analytics & HRBP professional from India
+HR Analytics | HRBP | Data-Inclined | Learning Python & Power BI
 
-🔭 I’m currently working on Python, Power BI, and HR Analytics projects
+🔭 I am a passionate HR Analytics and HRBP professional, currently learning Python, Power BI, DAX, and Generative AI to build data-driven HR solutions.
 
-🌱 I’m currently learning Python (from SkillUp Online), Power BI (PL-300 level), Advanced Analytics & Generative AI
+---
 
-👯 I’m looking to collaborate on HR dashboards, analytics projects, people insights, and automation ideas
+⭐ About Me:
 
-💬 Ask me about HR Analytics, HRBP responsibilities, KPI & goal setting, performance management, Power BI basics, Python for HR
+  🌱 I’m currently learning Python (from SkillUp Online), Power BI (PL-300 level), Advanced Analytics & Generative AI
 
-📫 How to reach me: manisa.behura1994@gmail.com
+  👯 I’m looking to collaborate on HR dashboards, analytics projects, people insights, and automation ideas
 
-⚡ Fun fact: I love solving people problems using numbers. 
+  💬 Ask me about HR Analytics, HRBP responsibilities, KPI & goal setting, performance management, Power BI basics, Python for HR
 
+  📫 How to reach me: manisa.behura1994@gmail.com
 
+  ⚡ Fun fact: I love solving people problems using numbers. 
+
+---
 
 🛠️ My Tech & Analytics Stack
 
-Here are the tools and technologies I’m working with recently:
+ Here are the tools and technologies I’m working with recently:
 
 Analytics & BI: Power BI, DAX, HR Metrics, KPI frameworks
 
@@ -28,7 +32,9 @@ Data Tools: Pandas, Excel, NumPy (learning phase)
 
 HR Skills: HRBP, Performance Management, Talent Insights, Workforce Analytics
 
-Other Tools: Git (learning), Jupyter Notebook, VS Code
+Other Tools: Git (learning), Jupyter Notebook, JIRA
+
+---
 
 ### 🔗 Connect with me:
 
