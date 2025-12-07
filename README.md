@@ -24,15 +24,15 @@ HR Analytics | HRBP | Data-Inclined | Learning Python & Power BI
 
  Here are the tools and technologies I’m working with recently:
 
-Analytics & BI: Power BI, DAX, HR Metrics, KPI frameworks
+* Analytics & BI: Power BI, DAX, HR Metrics, KPI frameworks
 
-Programming: Python (beginner–intermediate)
+* Programming: Python (beginner–intermediate)
 
-Data Tools: Pandas, Excel, NumPy (learning phase)
+* Data Tools: Pandas, Excel, NumPy (learning phase)
 
-HR Skills: HRBP, Performance Management, Talent Insights, Workforce Analytics
+* HR Skills: HRBP, Performance Management, Talent Insights, Workforce Analytics
 
-Other Tools: Git (learning), Jupyter Notebook, JIRA
+* Other Tools: Git (learning), Jupyter Notebook, JIRA
 
 ---
 
